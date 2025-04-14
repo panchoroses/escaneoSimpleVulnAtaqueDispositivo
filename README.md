@@ -5,5 +5,6 @@ Ingresas IP de tu red con el rango de IP
 --------------------------------------------------
 Ejemplo:
 Ingrese la dirección del servidor DHCP: XXX.XXX.XX.X
+--------------------------------------------------
 Ingrese el rango de IPs a escanear (ej. 192.168.1.0/24): 192.168.1.0/24
 --------------------------------------------------
